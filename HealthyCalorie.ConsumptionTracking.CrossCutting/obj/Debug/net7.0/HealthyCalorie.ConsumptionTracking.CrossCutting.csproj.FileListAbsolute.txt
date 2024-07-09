@@ -1,0 +1,14 @@
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\bin\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.deps.json
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\bin\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.runtimeconfig.json
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\bin\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\bin\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.pdb
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.AssemblyInfo.cs
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\refint\HealthyCalorie.ConsumptionTracking.CrossCutting.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.pdb
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\HealthyCalorie.ConsumptionTracking.CrossCutting.genruntimeconfig.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.ConsumptionTracking.CrossCutting\obj\Debug\net7.0\ref\HealthyCalorie.ConsumptionTracking.CrossCutting.dll

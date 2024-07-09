@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bpZa7lbANqa4G9uQvx0o9J1FDZvXhYQrXkMpcTWuzZU=",
+  "Source": "HealthyCalorie.ConsumptionTracking.Api",
+  "BasePath": "_content/HealthyCalorie.ConsumptionTracking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

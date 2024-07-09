@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HealthyCalorie.User.Api.props" />
+</Project>

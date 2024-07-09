@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pdFg4GMDgX/17ozjt8IO5D015OwfqNS83vZ/DBscGjg=",
+  "Source": "HealthyCalorie.Gateway",
+  "BasePath": "_content/HealthyCalorie.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

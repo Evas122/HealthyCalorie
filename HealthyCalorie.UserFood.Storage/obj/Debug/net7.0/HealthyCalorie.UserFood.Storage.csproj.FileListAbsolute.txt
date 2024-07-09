@@ -1,0 +1,17 @@
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\bin\Debug\net7.0\HealthyCalorie.UserFood.Storage.deps.json
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\bin\Debug\net7.0\HealthyCalorie.UserFood.Storage.runtimeconfig.json
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\bin\Debug\net7.0\HealthyCalorie.UserFood.Storage.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\bin\Debug\net7.0\HealthyCalorie.UserFood.Storage.pdb
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\bin\Debug\net7.0\HealthyCalorie.Common.Storage.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\bin\Debug\net7.0\HealthyCalorie.Common.Storage.pdb
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\HealthyCalorie.UserFood.Storage.csproj.AssemblyReference.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\HealthyCalorie.UserFood.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\HealthyCalorie.UserFood.Storage.AssemblyInfoInputs.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\HealthyCalorie.UserFood.Storage.AssemblyInfo.cs
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\HealthyCalorie.UserFood.Storage.csproj.CoreCompileInputs.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\HealthyCalorie.UserFood.Storage.csproj.CopyComplete
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\HealthyCalorie.UserFood.Storage.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\refint\HealthyCalorie.UserFood.Storage.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\HealthyCalorie.UserFood.Storage.pdb
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\HealthyCalorie.UserFood.Storage.genruntimeconfig.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.UserFood.Storage\obj\Debug\net7.0\ref\HealthyCalorie.UserFood.Storage.dll

@@ -1,0 +1,26 @@
+﻿@model IEnumerable<HealthyCalorie.Food.CrossCutting.Dtos.FoodDto>
+
+<h2>Food List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>FdcId</th>
+            <th>DataType</th>
+            <th>Description</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var food in Model)
+        {
+            <tr>
+                <td>@food.FdcId</td>
+                <td>@food.DataType</td>
+                <td>@food.Description</td>
+                <td>@food.FoodCategoryDescription</td>
+                <td><a asp-action="Details" asp-route-id="@food.FdcId">Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,14 @@
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\bin\Debug\net7.0\HealthyCalorie.Food.CrossCutting.deps.json
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\bin\Debug\net7.0\HealthyCalorie.Food.CrossCutting.runtimeconfig.json
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\bin\Debug\net7.0\HealthyCalorie.Food.CrossCutting.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\bin\Debug\net7.0\HealthyCalorie.Food.CrossCutting.pdb
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\HealthyCalorie.Food.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\HealthyCalorie.Food.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\HealthyCalorie.Food.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\HealthyCalorie.Food.CrossCutting.AssemblyInfo.cs
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\HealthyCalorie.Food.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\HealthyCalorie.Food.CrossCutting.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\refint\HealthyCalorie.Food.CrossCutting.dll
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\HealthyCalorie.Food.CrossCutting.pdb
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\HealthyCalorie.Food.CrossCutting.genruntimeconfig.cache
+C:\Users\HypX\source\repos\HealthyCalorieProject\HealthyCalorie.Food.CrossCutting\obj\Debug\net7.0\ref\HealthyCalorie.Food.CrossCutting.dll

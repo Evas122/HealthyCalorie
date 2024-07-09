@@ -1,0 +1,458 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Recipe.Storage\\HealthyCalorie.Recipe.Storage.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj",
+        "projectName": "HealthyCalorie.Common.Storage",
+        "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj",
+        "packagesPath": "C:\\Users\\HypX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HypX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Food.Storage\\HealthyCalorie.Food.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Food.Storage\\HealthyCalorie.Food.Storage.csproj",
+        "projectName": "HealthyCalorie.Food.Storage",
+        "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Food.Storage\\HealthyCalorie.Food.Storage.csproj",
+        "packagesPath": "C:\\Users\\HypX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Food.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HypX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj": {
+                "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Recipe.Storage\\HealthyCalorie.Recipe.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Recipe.Storage\\HealthyCalorie.Recipe.Storage.csproj",
+        "projectName": "HealthyCalorie.Recipe.Storage",
+        "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Recipe.Storage\\HealthyCalorie.Recipe.Storage.csproj",
+        "packagesPath": "C:\\Users\\HypX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Recipe.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HypX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj": {
+                "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj"
+              },
+              "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Food.Storage\\HealthyCalorie.Food.Storage.csproj": {
+                "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Food.Storage\\HealthyCalorie.Food.Storage.csproj"
+              },
+              "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.User.Storage\\HealthyCalorie.User.Storage.csproj": {
+                "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.User.Storage\\HealthyCalorie.User.Storage.csproj"
+              },
+              "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.UserFood.Storage\\HealthyCalorie.UserFood.Storage.csproj": {
+                "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.UserFood.Storage\\HealthyCalorie.UserFood.Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.User.Storage\\HealthyCalorie.User.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.User.Storage\\HealthyCalorie.User.Storage.csproj",
+        "projectName": "HealthyCalorie.User.Storage",
+        "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.User.Storage\\HealthyCalorie.User.Storage.csproj",
+        "packagesPath": "C:\\Users\\HypX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.User.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HypX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj": {
+                "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.UserFood.Storage\\HealthyCalorie.UserFood.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.UserFood.Storage\\HealthyCalorie.UserFood.Storage.csproj",
+        "projectName": "HealthyCalorie.UserFood.Storage",
+        "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.UserFood.Storage\\HealthyCalorie.UserFood.Storage.csproj",
+        "packagesPath": "C:\\Users\\HypX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.UserFood.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HypX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj": {
+                "projectPath": "C:\\Users\\HypX\\source\\repos\\HealthyCalorieProject\\HealthyCalorie.Common.Storage\\HealthyCalorie.Common.Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
