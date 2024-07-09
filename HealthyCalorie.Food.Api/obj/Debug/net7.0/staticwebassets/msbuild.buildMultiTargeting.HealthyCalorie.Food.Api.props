@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\HealthyCalorie.Food.Api.props" />
-</Project>
