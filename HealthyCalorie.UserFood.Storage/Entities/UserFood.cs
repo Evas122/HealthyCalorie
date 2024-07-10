@@ -16,6 +16,7 @@ namespace HealthyCalorie.UserFood.Storage.Entities
         public string? Description { get; set; }
 
         public virtual UserFoodCategory UserFoodCategory { get; set; }
+        public virtual List<UserFoodNutrient> UserFoodsNutrients { get; set; }
 
     }
 }

@@ -11,6 +11,7 @@ namespace HealthyCalorie.UserFood.CrossCutting.Dtos
         public int Id { get; set; }
         public int FoodId { get; set; }
         public int NutrientId { get; set; }
+        public string? NutrientName { get; set; }
         public float Amount { get; set; }
     }
 }

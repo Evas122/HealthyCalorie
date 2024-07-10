@@ -22,4 +22,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HealthyCalorie.Food.CrossCutting\HealthyCalorie.Food.CrossCutting.csproj" />
+    <ProjectReference Include="..\HealthyCalorie.Recipe.CrossCutting\HealthyCalorie.Recipe.CrossCutting.csproj" />
+    <ProjectReference Include="..\HealthyCalorie.UserFood.CrossCutting\HealthyCalorie.UserFood.CrossCutting.csproj" />
+  </ItemGroup>
+
 </Project>

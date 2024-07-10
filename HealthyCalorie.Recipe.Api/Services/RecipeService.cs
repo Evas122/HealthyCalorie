@@ -3,6 +3,7 @@ using HealthyCalorie.Common.CrossCutting.Dtos;
 using HealthyCalorie.Recipe.Api.Extensions;
 using HealthyCalorie.Recipe.CrossCutting.Dtos;
 using HealthyCalorie.Recipe.Storage;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Migrations.Operations;
 using Microsoft.Identity.Client;
 
@@ -19,8 +20,13 @@ namespace HealthyCalorie.Recipe.Api.Services
 
         public async Task<RecipeDto> GetById(int id)
         {
-            var recipe = await base.GetById(id);
-            return recipe.ToDto();
+            var recipe = await _recipeDbContext.Recipes
+                .Include(r => r.RecipeIngredients)
+                .AsNoTracking()
+                .Where(r => r.Id == id)
+                .SingleOrDefaultAsync();
+
+            return recipe == null ? new RecipeDto() : recipe.ToDto();
         }
 
         public async Task<IEnumerable<RecipeDto>> Get()

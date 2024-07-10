@@ -19,6 +19,6 @@ namespace HealthyCalorie.Recipe.Storage.Entities
         public string? Url { get; set; }
 
         public virtual HealthyCalorie.User.Storage.Entities.User User { get; set; }
-        public virtual ICollection<RecipeIngredient> RecipeIngredients { get; set; }
+        public virtual List<RecipeIngredient> RecipeIngredients { get; set; }
     }
 }

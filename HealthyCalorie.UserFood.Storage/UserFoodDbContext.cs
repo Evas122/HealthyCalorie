@@ -32,6 +32,15 @@ namespace HealthyCalorie.UserFood.Storage
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Entities.UserFood>()
+               .HasMany(f => f.UserFoodsNutrients)
+               .WithOne(fn => fn.UserFood)
+               .HasForeignKey(fn => fn.FoodId);
+
+            modelBuilder.Entity<Entities.UserNutrient>()
+                .HasMany(n => n.UserFoodNutrients)
+                .WithOne(fn => fn.Nutrient)
+                .HasForeignKey(fn => fn.NutrientId);
             base.OnModelCreating(modelBuilder);
         }
     }

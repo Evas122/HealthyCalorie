@@ -13,5 +13,7 @@ namespace HealthyCalorie.Recipe.CrossCutting.Dtos
         public string? Title { get; set; }
         public string? Description { get; set; }
         public string? Url { get; set; }
+
+        public List<RecipeIngredientDto> RecipeIngredients { get; set;}
     }
 }

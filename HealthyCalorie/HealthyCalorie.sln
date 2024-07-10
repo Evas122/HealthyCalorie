@@ -57,8 +57,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthyCalorie.UserFood.Cro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthyCalorie.Common.Api", "..\HealthyCalorie.Common.Api\HealthyCalorie.Common.Api.csproj", "{FAC83454-E7BE-47E4-8FEB-BDD71D444B8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthyCalorie.Food.Demo", "..\HealthyCalorie.Food.Demo\HealthyCalorie.Food.Demo.csproj", "{27E22C32-924E-4C7E-A30F-42B2F9FA79F0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,10 +139,6 @@ Global
 		{FAC83454-E7BE-47E4-8FEB-BDD71D444B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAC83454-E7BE-47E4-8FEB-BDD71D444B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAC83454-E7BE-47E4-8FEB-BDD71D444B8C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{27E22C32-924E-4C7E-A30F-42B2F9FA79F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{27E22C32-924E-4C7E-A30F-42B2F9FA79F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{27E22C32-924E-4C7E-A30F-42B2F9FA79F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{27E22C32-924E-4C7E-A30F-42B2F9FA79F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -169,7 +163,6 @@ Global
 		{BB0415DD-A1B2-44C2-89E1-B5B98A221F0F} = {7C5C4AA8-7962-46A6-946E-F6E94643973C}
 		{ACC58A87-FEAE-44D2-A99D-CE89C4F67F85} = {7C5C4AA8-7962-46A6-946E-F6E94643973C}
 		{FAC83454-E7BE-47E4-8FEB-BDD71D444B8C} = {361FEA46-923F-4157-B98F-9A853C046A01}
-		{27E22C32-924E-4C7E-A30F-42B2F9FA79F0} = {B9205077-6CC2-4D0D-8E18-AFA0367101AF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06A0BC67-0378-4542-B875-F8E266D0094F}
